@@ -1,2 +1,2 @@
 LEARNGIT LEARNGIT LEARNGIT
-createing a new BRANCH is slow and hard .
+createing new BRANCH is slow and hard and hot.
