@@ -1,2 +1,2 @@
 learngit learngit learngit
-createing a new BRANCH is quick and SIMPLE .
+createing a new branch is quick and simple .
