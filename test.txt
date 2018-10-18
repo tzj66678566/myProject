@@ -1,2 +1,2 @@
 LEARNGIT LEARNGIT LEARNGIT
-createing a new BRANCH is quick and SIMPLE .
+createing a new BRANCH is slow and hard .
